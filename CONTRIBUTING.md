@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+Edit: Bitte sende eine Email an: maxmustermann@firma.com"
+
 ## Guideline
 
 * Add one link per Pull Request.
